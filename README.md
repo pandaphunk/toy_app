@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is just an example of using RoR to create a very, very simple Rails framework for a twiiter like Application. There is not much usefulness or practicality to the app, it merely serves as an example of how RoR works, how MVC architecture works, and practice. 
 
-Things you may want to cover:
 
-* Ruby version
+Created with RoR 5.0.1 and Ruby Version 2.3.0
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
